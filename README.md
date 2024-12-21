@@ -1,6 +1,9 @@
 # caixa-autoatendimento
 
 ![image](https://github.com/user-attachments/assets/8bb53851-d6ed-4c9a-963d-feaefda456fd)
+
+![image](https://github.com/user-attachments/assets/c8a43a4f-0226-4891-8c85-1f18784cbd71)
+
 Documentação do Projeto: Caixa de Autoatendimento
 1. Introdução
 Este projeto consiste em um sistema de caixa de autoatendimento para supermercados. A aplicação foi desenvolvida utilizando React para o frontend, Node.js como backend e SQL Server para o banco de dados. O objetivo principal é simular o funcionamento de um sistema real de autoatendimento, permitindo interações como pagamento, registro de produtos e consultas de dados.
