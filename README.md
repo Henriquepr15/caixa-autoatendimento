@@ -1,4 +1,5 @@
 # caixa-autoatendimento
+![image](https://github.com/user-attachments/assets/73c83222-2547-4e91-9592-de890f9feaab)
 
 ![image](https://github.com/user-attachments/assets/8bb53851-d6ed-4c9a-963d-feaefda456fd)
 
